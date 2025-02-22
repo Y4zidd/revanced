@@ -9,5 +9,5 @@ parallel-jobs = 1
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
-version = "latest"
+version = "20.04.40"
 excluded-patches = "'Announcements' 'Always repeat' 'GmsCore support' 'Disable HDR video'"

@@ -11,3 +11,10 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 version = " 19.47.53"
 excluded-patches = "'Announcements' 'Always repeat' 'GmsCore support' 'Disable HDR video'"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+arch = "arm64-v8a"
+build-mode = "module"
+version = "8.05.51"
+excluded-patches = "'GmsCore support'"

@@ -8,5 +8,5 @@ parallel-jobs = 1
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-arch = "arm64-v8a"
-excluded-patches = "'Disable HDR video'"
+version = "19.46.42"
+excluded-patches = "'GmsCore support' 'Disable HDR video'"
